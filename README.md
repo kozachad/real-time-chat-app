@@ -63,7 +63,7 @@ This project is a real-time chat application with a login and register system pr
 
 1. Clone the repository (if you haven't already):
     ```bash
-    git clone https://github.com/yourusername/real-time-chat-app.git
+    git clone https://github.com/kozachad/real-time-chat-app.git
     cd real-time-chat-app/frontend
     ```
 
